@@ -708,6 +708,7 @@ markers:
   - {type: indent, offset: 1942, content: 　　　, id: KR4d0034_krp_003-bkkind15}
   - {type: punctuation, offset: 1947, content: (, id: KR4d0034_krp_003-bkkpn1}
   - {type: substitution, offset: 1947, original: 幷, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20385}}
+  - {type: voice, offset: 1947, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1949, content: ), id: KR4d0034_krp_003-bkkpn2}
   - {type: 'kr:newline', offset: 1949, content: '
 
@@ -1189,4 +1190,4 @@ markers:
   - {type: variant, offset: 3321, length: 0, content: '', WYG: 欽定四庫全書蘇學士集巻四宋蘇舜欽撰}
   - {type: page-break, offset: 3321, content: '', id: KR4d0034_WYG_004-1a, image: WYG1092/WYG1092-0023a.png}
   back: []
-hash: sha256:6c83904742cee6ea08b1435cd452165b95a61007c7075c10cd04ba7ae759e4ac
+hash: sha256:ea78a789a3dc4cd3b982de7ffbdfa478b87b484a603d86eaedcfc1a3a7075a86

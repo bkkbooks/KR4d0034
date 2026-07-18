@@ -460,6 +460,7 @@ markers:
   - {type: line-break, offset: 1302, content: '', id: KR4d0034_SBCK_002-4b05}
   - {type: substitution, offset: 1314, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 1316, content: (, id: KR4d0034_krp_002-bkkpn1}
+  - {type: voice, offset: 1316, length: 14, name: note, id: n1}
   - {type: punctuation, offset: 1323, content: /, id: KR4d0034_krp_002-bkkpn2}
   - {type: substitution, offset: 1325, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 1330, content: ), id: KR4d0034_krp_002-bkkpn3}
@@ -1082,4 +1083,4 @@ markers:
   - {type: variant, offset: 3126, length: 0, content: '', WYG: 欽定四庫全書蘇學士集巻三宋蘇舜欽撰}
   - {type: page-break, offset: 3126, content: '', id: KR4d0034_WYG_003-1a, image: WYG1092/WYG1092-0017a.png}
   back: []
-hash: sha256:ca3dad6c89ba0ed578c0852264125806097d77bbea1bd6ac7d897330a9b3be71
+hash: sha256:c003bbde52532eb3be46e2d5aa6be7f1bd5457d8d630b0fab3c59e767bb989bc

@@ -15,6 +15,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4d0034_SBCK_014-1a02}
   - {type: indent, offset: 0, content: 　　　, id: KR4d0034_krp_014-bkkind1}
   - {type: punctuation, offset: 5, content: (, id: KR4d0034_krp_014-bkkpn1}
+  - {type: voice, offset: 5, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 7, content: ), id: KR4d0034_krp_014-bkkpn2}
   - {type: 'kr:newline', offset: 7, content: '
 
@@ -488,6 +489,7 @@ markers:
   - {type: line-break, offset: 1747, content: '', id: KR4d0034_SBCK_014-5a07}
   - {type: indent, offset: 1747, content: 　　　, id: KR4d0034_krp_014-bkkind2}
   - {type: punctuation, offset: 1759, content: (, id: KR4d0034_krp_014-bkkpn3}
+  - {type: voice, offset: 1759, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1761, content: ), id: KR4d0034_krp_014-bkkpn4}
   - {type: 'kr:newline', offset: 1761, content: '
 
@@ -1852,4 +1854,4 @@ markers:
   - {type: variant, offset: 6434, length: 0, content: '', WYG: 欽定四庫全書蘇學士集巻十五宋蘇舜欽撰}
   - {type: page-break, offset: 6434, content: '', id: KR4d0034_WYG_015-1a, image: WYG1092/WYG1092-0111a.png}
   back: []
-hash: sha256:1a1c3c91fc07e9c75ca4a312ab556f32403a4a49b8b7fc163bc91f111cccbf9f
+hash: sha256:f873b2b76e2fe50aa810101e2dedc1e7dfd7ccf12fa65d9432dd960a4d7f27ba

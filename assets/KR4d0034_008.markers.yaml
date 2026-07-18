@@ -636,6 +636,7 @@ markers:
   - {type: variant, offset: 1482, length: 1, content: 閑, WYG: 閒}
   - {type: substitution, offset: 1482, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20377}}
   - {type: punctuation, offset: 1484, content: (, id: KR4d0034_krp_008-bkkpn1}
+  - {type: voice, offset: 1484, length: 10, name: note, id: n1}
   - {type: substitution, offset: 1488, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 1489, content: /, id: KR4d0034_krp_008-bkkpn2}
   - {type: variant, offset: 1489, length: 1, content: 閑, WYG: 閒}
@@ -680,6 +681,7 @@ markers:
   - {type: line-break, offset: 1557, content: '', id: KR4d0034_SBCK_008-6a06}
   - {type: variant, offset: 1559, length: 1, content: 懷, WYG: 懐}
   - {type: punctuation, offset: 1566, content: (, id: KR4d0034_krp_008-bkkpn4}
+  - {type: voice, offset: 1566, length: 9, name: note, id: n2}
   - {type: punctuation, offset: 1571, content: /, id: KR4d0034_krp_008-bkkpn5}
   - {type: punctuation, offset: 1575, content: ), id: KR4d0034_krp_008-bkkpn6}
   - {type: 'kr:newline', offset: 1583, content: '
@@ -1031,4 +1033,4 @@ markers:
   - {type: variant, offset: 2420, length: 0, content: '', WYG: 欽定四庫全書蘇學士集巻九宋蘇舜欽撰}
   - {type: page-break, offset: 2420, content: '', id: KR4d0034_WYG_009-1a, image: WYG1092/WYG1092-0051c.png}
   back: []
-hash: sha256:1acfd6440a86bccd82c2e2f651cc06ac1801790b0f1c90337d1205c8a3fc8c98
+hash: sha256:eda32c63f9491170ba41ad5a6e7487238d25f6edbe381c7f0ce344a8acad8fda
